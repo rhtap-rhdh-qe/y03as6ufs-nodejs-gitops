@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: y03as6ufs-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/y03as6ufs-nodejs
